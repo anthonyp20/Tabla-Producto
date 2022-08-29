@@ -1,0 +1,6 @@
+C:\Users\evyso\OneDrive\Desktop\finacieraApp\Financiera.Dominio\bin\Debug\Financiera.Dominio.dll
+C:\Users\evyso\OneDrive\Desktop\finacieraApp\Financiera.Dominio\bin\Debug\Financiera.Dominio.pdb
+C:\Users\evyso\OneDrive\Desktop\finacieraApp\Financiera.Dominio\obj\Debug\Financiera.Dominio.csproj.AssemblyReference.cache
+C:\Users\evyso\OneDrive\Desktop\finacieraApp\Financiera.Dominio\obj\Debug\Financiera.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\evyso\OneDrive\Desktop\finacieraApp\Financiera.Dominio\obj\Debug\Financiera.Dominio.dll
+C:\Users\evyso\OneDrive\Desktop\finacieraApp\Financiera.Dominio\obj\Debug\Financiera.Dominio.pdb

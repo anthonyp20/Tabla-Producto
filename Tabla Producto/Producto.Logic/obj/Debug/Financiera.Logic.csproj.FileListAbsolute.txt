@@ -1,0 +1,11 @@
+C:\Users\evyso\OneDrive\Desktop\finacieraApp\Financiera.Logic\bin\Debug\Financiera.Logic.dll
+C:\Users\evyso\OneDrive\Desktop\finacieraApp\Financiera.Logic\bin\Debug\Financiera.Logic.pdb
+C:\Users\evyso\OneDrive\Desktop\finacieraApp\Financiera.Logic\bin\Debug\Financiera.Data.dll
+C:\Users\evyso\OneDrive\Desktop\finacieraApp\Financiera.Logic\bin\Debug\Financiera.Dominio.dll
+C:\Users\evyso\OneDrive\Desktop\finacieraApp\Financiera.Logic\bin\Debug\Financiera.Data.pdb
+C:\Users\evyso\OneDrive\Desktop\finacieraApp\Financiera.Logic\bin\Debug\Financiera.Dominio.pdb
+C:\Users\evyso\OneDrive\Desktop\finacieraApp\Financiera.Logic\obj\Debug\Financiera.Logic.csproj.AssemblyReference.cache
+C:\Users\evyso\OneDrive\Desktop\finacieraApp\Financiera.Logic\obj\Debug\Financiera.Logic.csproj.CoreCompileInputs.cache
+C:\Users\evyso\OneDrive\Desktop\finacieraApp\Financiera.Logic\obj\Debug\Financiera.Logic.csproj.CopyComplete
+C:\Users\evyso\OneDrive\Desktop\finacieraApp\Financiera.Logic\obj\Debug\Financiera.Logic.dll
+C:\Users\evyso\OneDrive\Desktop\finacieraApp\Financiera.Logic\obj\Debug\Financiera.Logic.pdb
