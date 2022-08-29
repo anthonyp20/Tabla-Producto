@@ -1,9 +1,0 @@
-C:\Users\evyso\OneDrive\Desktop\finacieraApp\Financiera.Data\bin\Debug\Financiera.Data.dll
-C:\Users\evyso\OneDrive\Desktop\finacieraApp\Financiera.Data\bin\Debug\Financiera.Data.pdb
-C:\Users\evyso\OneDrive\Desktop\finacieraApp\Financiera.Data\bin\Debug\Financiera.Dominio.dll
-C:\Users\evyso\OneDrive\Desktop\finacieraApp\Financiera.Data\bin\Debug\Financiera.Dominio.pdb
-C:\Users\evyso\OneDrive\Desktop\finacieraApp\Financiera.Data\obj\Debug\Financiera.Data.csproj.AssemblyReference.cache
-C:\Users\evyso\OneDrive\Desktop\finacieraApp\Financiera.Data\obj\Debug\Financiera.Data.csproj.CoreCompileInputs.cache
-C:\Users\evyso\OneDrive\Desktop\finacieraApp\Financiera.Data\obj\Debug\Financiera.Data.csproj.CopyComplete
-C:\Users\evyso\OneDrive\Desktop\finacieraApp\Financiera.Data\obj\Debug\Financiera.Data.dll
-C:\Users\evyso\OneDrive\Desktop\finacieraApp\Financiera.Data\obj\Debug\Financiera.Data.pdb
